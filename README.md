@@ -2,7 +2,7 @@
 
 _Claw Game Team's Writeups_
 
-**\This covers the writeups of most challenges.** 
+**This covers the writeups of most challenges.** 
 All the questions listed below have solutions here:
 
 - **Web**
